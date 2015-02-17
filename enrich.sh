@@ -9,7 +9,7 @@ find ./$file -type f -exec sed -i 's/for_replace/'$file'/g' {} \;
 
 done
 
-find ./ -type f -exec sed -i 's/\.xml<\/identifier>//g' {} \;
+find ./ -type f -exec sed -i 's/\.xml<\/identifier>/<\/identifier>/g' {} \;
 
 
 

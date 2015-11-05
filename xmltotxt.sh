@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Author: Georgios Papoutsis
+# Author: Georgios Papoutsis
 
 SUFF=xml
 suffix=txt

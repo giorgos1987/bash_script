@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+# Author: Georgios Papoutsis
+
+
+sed -rn "/<dc:title/,/<\/dc:title>/p" ./TR3_2015_07.xml
+
+sed -n "/<PRE>/,/<\/PRE>/p" input.html

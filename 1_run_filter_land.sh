@@ -1,6 +1,6 @@
 #!/bin/bash
 #find . -mindepth 1 -maxdepth 5 -type d -printf "/var/www/html/XML_Output/2013/%P/\n" >> ~/2013_dirs_agris.txt
-
+#Author : Papoutsis Georgios
 
 while read line
 do

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+# live dir /home/agris/agrisMetaCat
 SET=AL1
 FORMAT=AGRIS
 OAITARGET="http://agris.fao.org/oai"

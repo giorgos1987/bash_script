@@ -1,7 +1,7 @@
 #! /bin/bash
 
 #Author : Papoutsis Georgios
-#Description: Run for each center code CC
+#Description: Run for each center code CC and generate RDF from AgrisAP
 #Input : ~/agris_app/Convert2RDF/convert2RDF/applications/2015/${CC}
 #Output: ~/agris_app/Convert2RDF/convert2RDF/applications/2015_rdf/2015
 

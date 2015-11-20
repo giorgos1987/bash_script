@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author : Papoutsis Georgios Agroknow
 
 SET=greenet
 FORMAT=oai_lom

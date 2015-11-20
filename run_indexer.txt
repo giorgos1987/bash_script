@@ -1,0 +1,3 @@
+Run indexer / solr with :
+
+for D in  AL  BG  ID  IN  RU  SG  SK  US  XF; do ./indexer.sh /var/www/html/XML_Output/2015/$D; done

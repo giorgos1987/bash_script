@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author : Papoutsis Georgios Agroknow
 
 
 # live dir /home/agris/agrisMetaCat

@@ -1,4 +1,6 @@
 #!/bin/bash
+#Author : Papoutsis Georgios Agroknow
+
 #move 100 first files
 
 for file in $(ls -p | grep -v / | tail -100)

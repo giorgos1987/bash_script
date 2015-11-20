@@ -1,5 +1,5 @@
-
 #!/bin/bash
+#Author : Papoutsis Georgios Agroknow
 
 SET=p15738coll2
 FORMAT=oai_dc

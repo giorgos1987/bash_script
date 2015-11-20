@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Author : Papoutsis Georgios Agroknow
 
 
 #while read line

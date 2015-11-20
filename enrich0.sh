@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Author : Papoutsis Georgios Agroknow
 
 #voa3r enrichment
 

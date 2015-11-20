@@ -1,0 +1,1 @@
+ ./Input.sh ~/agrisMetaCat/harvested10/4trans/FI1 2015 FI 1 false agrisap
